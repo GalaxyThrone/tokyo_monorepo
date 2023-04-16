@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+.planet-item-card {
+  clip-path: polygon(100% 0, 100% 35%, 88% 100%, 0 100%, 0 0);
+}
+
+@font-face {
+  font-family: "Russo One";
+  src: url("/fonts/RussoOne-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: unset;
+}
+
+@font-face {
+  font-family: "Orbitron";
+  src: url("/fonts/Orbitron-VariableFont_wght.ttf");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: unset;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("/fonts/OpenSans-VariableFont_wght.ttf");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: unset;
+}
+
+@font-face {
+  font-family: "Alien Wars";
+  src: url("/fonts/Alien-Wars.ttf");
+  font-style: normal;
+  font-display: swap;
+  unicode-range: unset;
+}
+
+body {
+  font-family: "Orbitron";
+}
