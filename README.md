@@ -10,3 +10,4 @@ https://github.com/GalaxyThrone/warfare-contracts
 
 https://github.com/GalaxyThrone/backend_taiko/tree/master
 
+https://github.com/BromeRST/GT-warfare-frontend
