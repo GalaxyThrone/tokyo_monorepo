@@ -4,6 +4,7 @@ we merged all our repo here
 
 you can access the single repos at the following links:
 
+(V2, previously as a branch in taiko_nft_bridge)
 https://github.com/GalaxyThrone/polygon_nft_bridge
 
 https://github.com/GalaxyThrone/taiko_nft_bridge
